@@ -11,7 +11,7 @@ A bot designed to pull server statistics from a server and display on Discord.
 You can contact me on Discord by DM; le fabulous unicorn#0001.
 
 # Thanks To
-**Jesse Schokker** for his coding expertise and helping me make my noob code more readable
+**Jesse Schokker** for his coding expertise and helping me make my noob code more readable!</br>
 https://github.com/Jesse-Schokker
 
 **Dominic Poppe** for his API
