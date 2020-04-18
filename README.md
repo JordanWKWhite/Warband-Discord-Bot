@@ -1,6 +1,8 @@
 # Discord MB Bot
 A bot designed to pull server statistics from a server and display on Discord. 
 
+[![Run on Repl.it](https://repl.it/badge/github/JordanWKWhite/MBBStatsBot)](https://repl.it/github/JordanWKWhite/MBBStatsBot)
+
 # Features
 - Three ways to display statistics that can be used at same time; Changing the bot's playing status, editing a voice channel name with current/max players i.e. 70/100 players online OR through an embed. (achieved - 1/3)
 - Can work with multiple servers (planned)
