@@ -1,0 +1,25 @@
+{
+  "name": "MBBStatsBot-3",
+  "version": "1.0.0",
+  "description": "# Discord-M-B-W-Stats-bot A bot designed to pull server statistics from a server and display on Discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanWKWhite/MBBStatsBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordanWKWhite/MBBStatsBot/issues"
+  },
+  "homepage": "https://github.com/JordanWKWhite/MBBStatsBot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
